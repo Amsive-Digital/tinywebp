@@ -328,11 +328,6 @@ function Home() {
             </div>
           </div>
         )}
-        <div className='relative mt-8 flex justify-center items-center shadow-lg rounded-md  sm:rounded-2xl'>
-        <a href="https://bit.ly/play_wordchains_today" target="_blank">
-            <img src={wordchains} alt="Play Wordchains Today" className="w-100 rounded-md  sm:rounded-2xl"/>
-          </a>
-        </div>
       </div>
 
       {/* Footer */}
